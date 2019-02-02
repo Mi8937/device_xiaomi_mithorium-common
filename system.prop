@@ -154,3 +154,8 @@ persist.radio.sarvalue=-1
 # end of device/qcom/T89571AA3/system.prop
 
 ro.vendor.qti.va_aosp.support=1
+
+# IMS
+persist.dbg.volte_avail_ovr=1
+persist.dbg.vt_avail_ovr=1
+persist.dbg.wfc_avail_ovr=1
